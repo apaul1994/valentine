@@ -1,6 +1,6 @@
 {
-  "name": "valentine-wish",
-  "homepage": "https://apaul1994.github.io/valentine-wish",
+  "name": "valentine",
+  "homepage": "https://apaul1994.github.io/valentine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
